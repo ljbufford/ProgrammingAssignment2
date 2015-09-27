@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do TO DO!!!
+## The functions here creates a matrix like object that allows the inverse
+## of the matrix to be stored for future use. 
 
 ## makeCaheMatrix creates a matrix like object that allows the inverse of 
 ## the matrix to be stored for future use, and returns a list of functions.
